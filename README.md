@@ -10,10 +10,10 @@ Saving the contact details of the user using Express js and MongoDB
 
 ### Using Git (recommended)
 
-1.  Clone the project from github. Change "myproject" to your project name.
+1.  Clone the project from github.
 
 ```bash
-git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproject
+git clone https://github.com/madhuin28/Node-Project.git
 ```
 
 ### Using manual download ZIP
@@ -24,6 +24,6 @@ git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproje
 ### Install npm dependencies after installing (Git or manual download)
 
 ```bash
-cd myproject
+cd Node-Project
 npm install
 ```
