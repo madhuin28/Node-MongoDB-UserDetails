@@ -24,6 +24,6 @@ git clone https://github.com/madhuin28/Node-MongoDB-UserDetails.git
 ### Install npm dependencies after installing (Git or manual download)
 
 ```bash
-cd Node-Project
+cd Node-MongoDB-UserDetails
 npm install
 ```
